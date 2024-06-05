@@ -1,0 +1,10 @@
+Following are components:
+1. Tiva C Series TM4C123G.
+2. Motor derive L298N
+3. Bluetooth module HC-05.
+4. 3-Wheel Chasis
+5. Breadboard
+6. Motors(2).
+7. Rubber Tires(2).
+8. Batteries.
+9. Jumper wires(male-male,male-female,female-female).
